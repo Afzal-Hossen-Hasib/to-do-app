@@ -1,0 +1,31 @@
+.user-title {
+    margin-bottom: 30px;
+    text-align: center;
+    background-color: black;
+    color: orangered;
+    padding: 10px 0;
+}
+
+.user-button {
+    border: none;
+    background-color: orangered;
+    color: white;
+    font-size: 18px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+.user-button:hover {
+    background-color: black;
+    color: orangered;
+}
+
+.email-title {
+    font-size: 20px;
+}
+
+.pass-title {
+    font-size: 20px;
+}
